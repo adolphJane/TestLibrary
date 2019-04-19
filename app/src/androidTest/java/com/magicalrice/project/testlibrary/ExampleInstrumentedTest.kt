@@ -1,4 +1,4 @@
-package com.magicalrice.project.testapi
+package com.magicalrice.project.testlibrary
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

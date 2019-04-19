@@ -1,4 +1,4 @@
-package com.magicalrice.project.testapi
+package com.magicalrice.project.testlibrary
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

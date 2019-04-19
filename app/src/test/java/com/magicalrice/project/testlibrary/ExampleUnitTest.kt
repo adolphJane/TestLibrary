@@ -1,4 +1,4 @@
-package com.magicalrice.project.testapi
+package com.magicalrice.project.testlibrary
 
 import org.junit.Test
 
